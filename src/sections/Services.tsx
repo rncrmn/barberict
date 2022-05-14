@@ -45,7 +45,7 @@ const Services: FC = () => {
         <div className="py-10 bg-black md:py-20" id="services">
             <div className="container px-8 py-3 mx-auto md:py-6 md:w-9/12 md:px-0">
                 <div className="mb-16 text-center">
-                    <h2 className="mb-6 text-lg font-semibold text-slate-300">
+                    <h2 className="mb-6 text-lg font-semibold uppercase text-slate-300">
                         Services
                     </h2>
                     <p className="font-serif text-4xl font-semibold leading-normal text-white md:text-5xl">

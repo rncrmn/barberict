@@ -7,7 +7,7 @@ const About: FC = () => {
             <div className="container px-8 py-3 mx-auto md:py-6 md:w-9/12 md:px-0">
                 <div className="grid gap-10 md:grid-cols-2">
                     <div className="flex flex-col justify-center gap-6">
-                        <h2 className="text-lg font-semibold text-slate-300">
+                        <h2 className="text-lg font-semibold uppercase text-slate-300">
                             About Us
                         </h2>
                         <p className="font-serif text-4xl font-semibold leading-normal text-white md:text-6xl">

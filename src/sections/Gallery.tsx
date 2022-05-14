@@ -21,7 +21,7 @@ const Gallery: FC = () => {
         <div className="py-10 bg-black md:py-20" id="gallery">
             <div className="container px-8 py-3 mx-auto md:py-6 md:w-9/12 md:px-0">
                 <div className="mb-10">
-                    <h2 className="mb-6 text-lg font-semibold text-slate-300">
+                    <h2 className="mb-6 text-lg font-semibold uppercase text-slate-300">
                         Gallery
                     </h2>
                     <p className="font-serif text-4xl font-semibold leading-normal text-white md:text-5xl">
